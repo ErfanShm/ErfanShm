@@ -114,7 +114,7 @@ Currently working at SmartEra Organization, I design and implement cutting-edge 
 [<!-- Twitter --> <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://x.com/ErfaanAm) &nbsp;
 [<!-- LinkedIn --> <img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/erfan-shafiee-moghadam-/) &nbsp;
 [<!-- Medium --> <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@erfanshm12) &nbsp;
-[<!-- Instagram --> <img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/_.erfnshmm/) &nbsp;
+[<!-- Instagram --> <img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/erfanshafiee__) &nbsp;
 [<!-- Hugging Face --> <img src="https://img.shields.io/badge/Hugging%20Face-%23000000.svg?&style=for-the-badge&logo=Hugging%20Face&logoColor=white" />](https://huggingface.co/ErfanShm) &nbsp;
 
 </p>
