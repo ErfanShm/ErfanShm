@@ -82,6 +82,8 @@ Currently working at SmartEra Organization, I design and implement cutting-edge 
 <!-- Databases -->
 #### Databases:
 
+![Pinecone](https://img.shields.io/badge/Pinecone-%23000000.svg?style=for-the-badge&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-%234285F4.svg?style=for-the-badge&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-%234B275F.svg?style=for-the-badge&logo=neo4j&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-%23316192.svg?style=for-the-badge&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -92,7 +94,6 @@ Currently working at SmartEra Organization, I design and implement cutting-edge 
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 <!-- IDEs -->
@@ -109,13 +110,14 @@ Currently working at SmartEra Organization, I design and implement cutting-edge 
 <!-- Connect with me links -->
 <p align="center">
 
-[<!-- Kaggle --> <img src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=black" />](https://www.kaggle.com/erfanshafieeaa) &nbsp;
-[<!-- Website --> <img src="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white&color=black" />](https://www.yourwebsite.com) &nbsp;
-[<!-- Twitter --> <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://x.com/ErfaanAm) &nbsp;
 [<!-- LinkedIn --> <img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/erfan-shafiee-moghadam-/) &nbsp;
+[<!-- Kaggle --> <img src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=black" />](https://www.kaggle.com/erfanshafieeaa) &nbsp;
+[<!-- Hugging Face --> <img src="https://img.shields.io/badge/Hugging%20Face-%23000000.svg?&style=for-the-badge&logo=Hugging%20Face&logoColor=white" />](https://huggingface.co/ErfanShm) &nbsp;
+[<!-- Twitter --> <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://x.com/ErfaanAm) &nbsp;
 [<!-- Medium --> <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@erfanshm12) &nbsp;
 [<!-- Instagram --> <img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/erfanshafiee__) &nbsp;
-[<!-- Hugging Face --> <img src="https://img.shields.io/badge/Hugging%20Face-%23000000.svg?&style=for-the-badge&logo=Hugging%20Face&logoColor=white" />](https://huggingface.co/ErfanShm) &nbsp;
+[<!-- Discord --> <img src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white&color=black" />](https://discord.com/users/494862010488717322) &nbsp;
+[<!-- Website --> <img src="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white&color=black" />](https://www.yourwebsite.com) &nbsp;
 
 </p>
 
