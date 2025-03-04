@@ -5,32 +5,43 @@
 <h1 align='center'> Hi there, I'm Erfan Shafiee Moghaddam <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 
 <!-- Introduction -->
-I completed my computer engineering degree from Allameh Tabatabie University in Iran.
+I'm an **AI Developer & ML/NLP Specialist** with expertise in building intelligent automation systems, RAG solutions, and AI agents. I graduated with a Computer Engineering degree from Allameh Tabatabaie University in Iran.
 
-Currently, I'm a junior ML developer passionate about exploring topics such as Machine Learning, Data Science, and Productivity. I also enjoy contributing to open-source projects.
+Currently working at SmartEra Organization, I design and implement cutting-edge AI solutions with a focus on workflow automation, intelligent agents, and retrieval-augmented generation systems. I'm passionate about leveraging AI to solve real-world problems and contributing to open-source projects.
 
 <!-- GitHub header image -->
 <img width="70%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
+<!-- Expertise Areas -->
+**My Expertise Areas** 🚀:
+
+- Retrieval-Augmented Generation (RAG) Systems
+- AI Agent Architectures & Orchestration
+- Workflow Automation with n8n/Zapier
+- Large Language Models (LLMs) & Fine-tuning
+- Knowledge Graphs & Vector Databases
+- Multilingual NLP Applications
+- Generative AI Solutions
+
 <!-- Research Interests -->
 **My Research Interests** 📚:
 
-- Text Classification
-- Named Entity Recognition (NER)
-- Sentiment Analysis
-- Text Summarization
-- Topic Modeling
-- Information Extraction
-- Text Embeddings
-- Language Generation
-- Chatbots
+- Graph-based RAG Architectures
+- Hybrid Search & Context-aware Retrieval
+- Autonomous AI Agent Systems
+- Conversational AI & Dialog Management
+- Token-aware Document Processing
+- LLM Evaluation Frameworks
+- Cross-lingual Knowledge Transfer
 
 <!-- Collaboration -->
 **I am open to** 🌐:
 
-- Collaboration work
-- Machine learning projects (development or research)
-- Research internships
+- Collaboration on AI/ML projects
+- Open-source contributions to RAG & AI agent tools
+- Research & development in multilingual NLP
+- Building innovative AI automation solutions
+- Knowledge sharing and mentorship
 
 <!-- Skills Heading -->
 <h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> </h2>
@@ -45,22 +56,34 @@ Currently, I'm a junior ML developer passionate about exploring topics such as M
 ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-%2343853D.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-<!-- Machine Learning and Deep Learning -->
-#### ML/DL:
+<!-- AI & ML/DL -->
+#### AI & ML/DL:
 
+![LangChain](https://img.shields.io/badge/LangChain-%23116ACC.svg?style=for-the-badge&logo=chainlink&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-%23FF6600.svg?style=for-the-badge&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%230076D6.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-%23007ACC.svg?style=for-the-badge&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-%23232F3E.svg?style=for-the-badge&logo=huggingface&logoColor=white)
 
-<!-- Databases -->
-#### Database:
+<!-- Automation & Frameworks -->
+#### Automation & Frameworks:
 
+![n8n](https://img.shields.io/badge/n8n-%23FF6633.svg?style=for-the-badge&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-%23FF4A00.svg?style=for-the-badge&logo=zapier&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-%23F38020.svg?style=for-the-badge&logoColor=white)
+
+<!-- Databases -->
+#### Databases:
+
+![Neo4j](https://img.shields.io/badge/Neo4j-%234B275F.svg?style=for-the-badge&logo=neo4j&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-%23316192.svg?style=for-the-badge&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -70,6 +93,7 @@ Currently, I'm a junior ML developer passionate about exploring topics such as M
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 <!-- IDEs -->
 #### IDEs:
