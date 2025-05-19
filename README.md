@@ -129,7 +129,7 @@ Currently working at SmartEra Organization, I design and implement cutting-edge 
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=ErfanShm&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="ErfanShm's GitHub stats" />
     </td>
     <td width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErfanShm&theme=dracula&hide_border=true" alt="GitHub Streak" />
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ErfanShm&theme=dracula&hide_border=true" alt="GitHub Streak" />
     </td>
   </tr>
   <tr>
@@ -142,7 +142,7 @@ Currently working at SmartEra Organization, I design and implement cutting-edge 
       <img src="https://github-profile-trophy.vercel.app/?username=ErfanShm&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
     </td>
     <td width="50%">
-      <img src="https://metrics.lecoq.io/ErfanShm?template=classic&base.repositories=0&base.metadata=0&config.timezone=Asia%2FTehran" alt="Advanced GitHub Metrics" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ErfanShm&repo=your-best-repo&theme=dracula&hide_border=true" alt="Pinned Project" />
     </td>
   </tr>
   <tr>
