@@ -144,7 +144,7 @@ Currently working at SmartEra Organization, I design and implement cutting-edge 
     <td colspan="2" align="center">
         <img src="https://activity-graph.herokuapp.com/graph?username=ErfanShm&bg_color=282a36&color=f8f8f2&line=bd93f9&point=ff79c6&area=true&hide_border=true" alt="Activity Graph"/> </td>
   </tr>
-</table>| ------------- | ------------- |
+</table>
 <!--- stats(End) -->
 
 <!-- Bottom Image -->
