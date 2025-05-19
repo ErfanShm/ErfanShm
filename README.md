@@ -7,7 +7,7 @@
 <!-- Introduction -->
 I'm an **AI Developer & ML/NLP Specialist** with a deep passion for building intelligent automation systems, generative AI, LLMs, and RAG solutions. I hold a Computer Engineering degree from Allameh Tabataba'i University in Iran.
 
-Currently, I work as an **AI Engineer at MemaranSoft**, a **Freelance AI Engineer at SmartEra Organization**, and have previously contributed as a **GenAI Intern at Asr Gooyesh Pardaz**, **Junior System Analyst at Barsa Novin Ray**, and **Junior Front End Developer at Rismun**. My experience spans designing and deploying AI-powered process automation, building RAG chatbots, integrating AI with workflow tools (n8n/Zapier), and developing both backend and frontend solutions. I enjoy mentoring, collaborating, and pushing the boundaries of AI to solve real-world problems.
+Currently, I work as an **AI Engineer at MemaranSoft**, a **Freelance AI Engineer at SmartEra Organization**. My experience spans designing and deploying AI-powered process automation, building RAG chatbots, integrating AI with workflow tools (n8n/Zapier), and developing both backend and frontend solutions. I enjoy mentoring, collaborating, and pushing the boundaries of AI to solve real-world problems.
 
 <!-- GitHub header image -->
 <img width="70%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
