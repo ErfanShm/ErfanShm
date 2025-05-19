@@ -129,26 +129,27 @@ Currently working at SmartEra Organization, I design and implement cutting-edge 
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=ErfanShm&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="ErfanShm's GitHub stats" />
     </td>
     <td width="50%">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErfanShm&layout=compact&theme=dracula&hide_border=true" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErfanShm&theme=dracula&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErfanShm&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErfanShm&theme=dracula&hide_border=true" alt="GitHub Streak" />
-    </td>
-    <td width="50%">
       <img src="https://github-profile-trophy.vercel.app/?username=ErfanShm&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://img.shields.io/github/followers/ErfanShm?label=Followers&style=social" alt="GitHub Followers" />
+      <br/>
+      <img src="https://badges.pufler.dev/visits/ErfanShm/ErfanShm" alt="Profile Views" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=ErfanShm&bg_color=282a36&color=f8f8f2&line=bd93f9&point=ff79c6&area=true&hide_border=true&custom_title=GitHub%20Activity%20Graph" alt="Activity Graph"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://img.shields.io/github/followers/ErfanShm?label=Followers&style=social" alt="GitHub Followers" />
-      <img src="https://badges.pufler.dev/visits/ErfanShm/ErfanShm" alt="Profile Views" />
     </td>
   </tr>
 </table>
