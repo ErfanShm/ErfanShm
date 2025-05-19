@@ -140,9 +140,16 @@ Currently working at SmartEra Organization, I design and implement cutting-edge 
       <img src="https://github-profile-trophy.vercel.app/?username=ErfanShm&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
     </td>
   </tr>
-   <tr>
+  <tr>
     <td colspan="2" align="center">
-        <img src="https://activity-graph.herokuapp.com/graph?username=ErfanShm&bg_color=282a36&color=f8f8f2&line=bd93f9&point=ff79c6&area=true&hide_border=true" alt="Activity Graph"/> </td>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=ErfanShm&bg_color=282a36&color=f8f8f2&line=bd93f9&point=ff79c6&area=true&hide_border=true&custom_title=GitHub%20Activity%20Graph" alt="Activity Graph"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://img.shields.io/github/followers/ErfanShm?label=Followers&style=social" alt="GitHub Followers" />
+      <img src="https://badges.pufler.dev/visits/ErfanShm/ErfanShm" alt="Profile Views" />
+    </td>
   </tr>
 </table>
 <!--- stats(End) -->
