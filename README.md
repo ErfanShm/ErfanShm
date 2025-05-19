@@ -138,11 +138,8 @@ Currently working at SmartEra Organization, I design and implement cutting-edge 
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td colspan="2" align="center">
       <img src="https://github-profile-trophy.vercel.app/?username=ErfanShm&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ErfanShm&repo=your-best-repo&theme=dracula&hide_border=true" alt="Pinned Project" />
     </td>
   </tr>
   <tr>
