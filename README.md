@@ -70,7 +70,7 @@ Currently, I work as an **AI Engineer at MemaranSoft**, a **Freelance AI Enginee
 ![LangChain](https://img.shields.io/badge/LangChain-%23116ACC.svg?style=for-the-badge&logo=chainlink&logoColor=white)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-%23FF6600.svg?style=for-the-badge&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)#### Automation, Frameworks & Platforms:
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-%23FF6633.svg?style=for-the-badge&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-%23FF4A00.svg?style=for-the-badge&logo=zapier&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
