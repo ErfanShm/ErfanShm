@@ -141,10 +141,8 @@ Currently working at SmartEra Organization, I design and implement cutting-edge 
     <td width="50%">
       <img src="https://github-profile-trophy.vercel.app/?username=ErfanShm&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
     </td>
-    <td width="50%" align="center">
-      <img src="https://img.shields.io/github/followers/ErfanShm?label=Followers&style=social" alt="GitHub Followers" />
-      <br/>
-      <img src="https://badges.pufler.dev/visits/ErfanShm/ErfanShm" alt="Profile Views" />
+    <td width="50%">
+      <img src="https://metrics.lecoq.io/ErfanShm?template=classic&base.repositories=0&base.metadata=0&config.timezone=Asia%2FTehran" alt="Advanced GitHub Metrics" />
     </td>
   </tr>
   <tr>
