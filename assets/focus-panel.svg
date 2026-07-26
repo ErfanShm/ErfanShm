@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="180" viewBox="0 0 900 180" role="img" aria-label="Current focus">
+  <defs>
+    <linearGradient id="panel" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0c1411"/>
+      <stop offset="100%" stop-color="#101a16"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="180" rx="16" fill="url(#panel)" stroke="#1f3a2e"/>
+  <text x="36" y="42" fill="#6b8f7c" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">$ cat current_focus.md</text>
+  <text x="36" y="78" fill="#e8f5ee" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="700">Building production AI systems that ship</text>
+  <text x="36" y="112" fill="#8fb59f" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">Production RAG · Multi-agent orchestration · Knowledge graphs · API gateways</text>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">
+    <rect x="36" y="132" width="120" height="26" rx="7" fill="#12241c" stroke="#274636"/>
+    <text x="52" y="149" fill="#b7dcc7">UGAP</text>
+    <rect x="168" y="132" width="120" height="26" rx="7" fill="#12241c" stroke="#274636"/>
+    <text x="184" y="149" fill="#b7dcc7">UTEX</text>
+    <rect x="300" y="132" width="140" height="26" rx="7" fill="#12241c" stroke="#274636"/>
+    <text x="316" y="149" fill="#b7dcc7">KNIGHT</text>
+    <rect x="452" y="132" width="160" height="26" rx="7" fill="#12241c" stroke="#274636"/>
+    <text x="468" y="149" fill="#b7dcc7">LangGraph</text>
+  </g>
+  <rect x="0" y="0" width="4" height="180" rx="2" fill="#3dd68c">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="3s" repeatCount="indefinite"/>
+  </rect>
+</svg>
