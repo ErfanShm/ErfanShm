@@ -1,17 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="180" viewBox="0 0 900 180">
-  <rect width="900" height="180" rx="16" fill="#0b1220" stroke="#164e63" stroke-width="2"/>
-  <rect x="0" y="0" width="5" height="180" fill="#06b6d4">
+  <rect width="900" height="180" rx="16" fill="#0b1210" stroke="#1f3a2e" stroke-width="2"/>
+  <rect x="0" y="0" width="5" height="180" fill="#3dd68c">
     <animate attributeName="opacity" values="0.55;1;0.55" dur="2.8s" repeatCount="indefinite"/>
   </rect>
-  <text x="36" y="42" fill="#22d3ee" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">$ cat current_focus.md</text>
-  <text x="36" y="78" fill="#f8fafc" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="700">Building production AI systems that ship</text>
-  <text x="36" y="112" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">Production RAG · Multi-agent orchestration · Knowledge graphs · API gateways</text>
-  <rect x="36" y="132" width="120" height="26" rx="7" fill="#083344" stroke="#164e63"/>
-  <text x="52" y="149" fill="#a5f3fc" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">UGAP</text>
-  <rect x="168" y="132" width="120" height="26" rx="7" fill="#083344" stroke="#164e63"/>
-  <text x="184" y="149" fill="#a5f3fc" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">UTEX</text>
-  <rect x="300" y="132" width="140" height="26" rx="7" fill="#083344" stroke="#164e63"/>
-  <text x="316" y="149" fill="#a5f3fc" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">KNIGHT</text>
-  <rect x="452" y="132" width="160" height="26" rx="7" fill="#083344" stroke="#164e63"/>
-  <text x="468" y="149" fill="#a5f3fc" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">LangGraph</text>
+  <text x="36" y="42" fill="#6b8f7c" font-family="Consolas, Menlo, monospace" font-size="13">$ cat current_focus.md</text>
+  <text x="36" y="78" fill="#e8f5ee" font-family="Consolas, Menlo, monospace" font-size="20" font-weight="700">Building production AI systems that ship</text>
+  <text x="36" y="112" fill="#8fb59f" font-family="Consolas, Menlo, monospace" font-size="14">Production RAG · Multi-agent orchestration · Knowledge graphs · API gateways</text>
+  <rect x="36" y="132" width="120" height="26" rx="7" fill="#12241c" stroke="#274636"/>
+  <text x="52" y="149" fill="#b7dcc7" font-family="Consolas, Menlo, monospace" font-size="12">UGAP</text>
+  <rect x="168" y="132" width="120" height="26" rx="7" fill="#12241c" stroke="#274636"/>
+  <text x="184" y="149" fill="#b7dcc7" font-family="Consolas, Menlo, monospace" font-size="12">UTEX</text>
+  <rect x="300" y="132" width="140" height="26" rx="7" fill="#12241c" stroke="#274636"/>
+  <text x="316" y="149" fill="#b7dcc7" font-family="Consolas, Menlo, monospace" font-size="12">KNIGHT</text>
+  <rect x="452" y="132" width="160" height="26" rx="7" fill="#12241c" stroke="#274636"/>
+  <text x="468" y="149" fill="#b7dcc7" font-family="Consolas, Menlo, monospace" font-size="12">LangGraph</text>
 </svg>

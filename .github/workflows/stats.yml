@@ -10,7 +10,6 @@ on:
       - main
     paths:
       - ".github/workflows/stats.yml"
-      - "README.md"
 
 permissions:
   contents: write
@@ -22,24 +21,34 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      # GITHUB_TOKEN alone fails with "Resource not accessible by integration"
+      # when include_all_commits / private data is requested. Prefer PAT secret
+      # named GH_STATS_TOKEN (classic: public_repo + read:user). Falls back to GITHUB_TOKEN.
       - name: Generate stats card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&theme=dark&title_color=06b6d4&icon_color=06b6d4&text_color=e2e8f0&bg_color=0b1220&ring_color=06b6d4&hide_border=true
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=dark&title_color=3dd68c&icon_color=3dd68c&text_color=c9d1d9&bg_color=0b1210&ring_color=3dd68c&hide_border=true
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_STATS_TOKEN || secrets.GITHUB_TOKEN }}
+          fail_on_error: false
 
       - name: Generate top languages card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=dark&title_color=06b6d4&text_color=e2e8f0&bg_color=0b1220&hide_border=true
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=dark&title_color=3dd68c&text_color=c9d1d9&bg_color=0b1210&hide_border=true
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_STATS_TOKEN || secrets.GITHUB_TOKEN }}
+          fail_on_error: false
 
       - name: Commit cards
         run: |
+          if grep -q "Something went wrong" profile/stats.svg profile/top-langs.svg 2>/dev/null; then
+            echo "Stats API returned an error card — keeping previous SVGs"
+            git checkout -- profile/stats.svg profile/top-langs.svg || true
+            exit 0
+          fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           mkdir -p profile
