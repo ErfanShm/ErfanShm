@@ -1,6 +1,6 @@
 <!--
   ErfanShm Profile README
-  Brand: terminal / evening aesthetic · matches erfanshm.com
+  Brand cyan: #06b6d4 (dark) · #0891b2 (light)
 -->
 
 <p align="center">
@@ -9,20 +9,20 @@
 
 <p align="center">
   <a href="https://erfanshm.com">
-    <img src="https://img.shields.io/badge/Website-erfanshm.com-0d1117?style=for-the-badge&logo=googlechrome&logoColor=3dd68c&labelColor=0b1210&color=12241c" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-erfanshm.com-020617?style=for-the-badge&logo=googlechrome&logoColor=06b6d4&labelColor=0b1220&color=083344" alt="Website" />
   </a>
   <a href="mailto:erfanshm12@gmail.com">
-    <img src="https://img.shields.io/badge/Email-erfanshm12%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=3dd68c&labelColor=0b1210&color=12241c" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-erfanshm12%40gmail.com-020617?style=for-the-badge&logo=gmail&logoColor=06b6d4&labelColor=0b1220&color=083344" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/erfan-shafiee-moghadam-">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=3dd68c&labelColor=0b1210&color=12241c" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-020617?style=for-the-badge&logo=linkedin&logoColor=06b6d4&labelColor=0b1220&color=083344" alt="LinkedIn" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=ErfanShm&style=for-the-badge&color=12241c&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ErfanShm&style=for-the-badge&color=083344&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=3DD68C&center=true&vCenter=true&multiline=false&width=720&height=40&lines=AI+Systems+Architect;Production+RAG+%26+Multi-Agent+Workflows;Knowledge+Graphs+%C2%B7+LangGraph+%C2%B7+FastAPI;I+turn+complex+AI+into+enterprise+products">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=3DD68C&center=true&vCenter=true&multiline=false&width=720&height=40&lines=AI+Systems+Architect;Production+RAG+%26+Multi-Agent+Workflows;Knowledge+Graphs+%C2%B7+LangGraph+%C2%B7+FastAPI;I+turn+complex+AI+into+enterprise+products" alt="Typing titles" />
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=06B6D4&center=true&vCenter=true&width=720&height=40&lines=AI+Systems+Architect;Production+RAG+%26+Multi-Agent+Workflows;Knowledge+Graphs+%C2%B7+LangGraph+%C2%B7+FastAPI;I+turn+complex+AI+into+enterprise+products">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=06B6D4&center=true&vCenter=true&width=720&height=40&lines=AI+Systems+Architect;Production+RAG+%26+Multi-Agent+Workflows;Knowledge+Graphs+%C2%B7+LangGraph+%C2%B7+FastAPI;I+turn+complex+AI+into+enterprise+products" alt="Typing titles" />
   </a>
 </p>
 
@@ -56,10 +56,10 @@ I thrive on ambiguity. If you need a visionary idea turned into a reliable, mark
 
 <p align="center">
   <a href="https://github.com/ErfanShm?tab=repositories">
-    <img src="https://img.shields.io/badge/More_on_GitHub-→-0b1210?style=for-the-badge&labelColor=0b1210&color=3dd68c&logoColor=0b1210" alt="More on GitHub" />
+    <img src="https://img.shields.io/badge/More_on_GitHub-→-0b1220?style=for-the-badge&labelColor=0b1220&color=06b6d4" alt="More on GitHub" />
   </a>
   <a href="https://erfanshm.com">
-    <img src="https://img.shields.io/badge/Full_case_studies-erfanshm.com-0b1210?style=for-the-badge&labelColor=0b1210&color=12241c" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Full_case_studies-erfanshm.com-0b1220?style=for-the-badge&labelColor=0b1220&color=083344" alt="Portfolio" />
   </a>
 </p>
 
@@ -129,16 +129,16 @@ Knowledge-graph-driven generation of verifiable, multi-hop MCQs with adaptive di
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LangChain-12241c?style=flat-square&logo=langchain&logoColor=3dd68c&labelColor=0b1210" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LangGraph-12241c?style=flat-square&labelColor=0b1210&color=12241c" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/RAG-12241c?style=flat-square&labelColor=0b1210&color=12241c" alt="RAG" />
-  <img src="https://img.shields.io/badge/LLMs-12241c?style=flat-square&labelColor=0b1210&color=12241c" alt="LLMs" />
-  <img src="https://img.shields.io/badge/Agents-12241c?style=flat-square&labelColor=0b1210&color=12241c" alt="Agents" />
-  <img src="https://img.shields.io/badge/FAISS-12241c?style=flat-square&labelColor=0b1210&color=12241c" alt="FAISS" />
-  <img src="https://img.shields.io/badge/ChromaDB-12241c?style=flat-square&labelColor=0b1210&color=12241c" alt="ChromaDB" />
-  <img src="https://img.shields.io/badge/WebSockets-12241c?style=flat-square&labelColor=0b1210&color=12241c" alt="WebSockets" />
-  <img src="https://img.shields.io/badge/n8n-12241c?style=flat-square&labelColor=0b1210&color=12241c" alt="n8n" />
-  <img src="https://img.shields.io/badge/HuggingFace-12241c?style=flat-square&logo=huggingface&logoColor=3dd68c&labelColor=0b1210" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/LangChain-083344?style=flat-square&logoColor=06b6d4&labelColor=0b1220" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-083344?style=flat-square&labelColor=0b1220&color=083344" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/RAG-083344?style=flat-square&labelColor=0b1220&color=083344" alt="RAG" />
+  <img src="https://img.shields.io/badge/LLMs-083344?style=flat-square&labelColor=0b1220&color=083344" alt="LLMs" />
+  <img src="https://img.shields.io/badge/Agents-083344?style=flat-square&labelColor=0b1220&color=083344" alt="Agents" />
+  <img src="https://img.shields.io/badge/FAISS-083344?style=flat-square&labelColor=0b1220&color=083344" alt="FAISS" />
+  <img src="https://img.shields.io/badge/ChromaDB-083344?style=flat-square&labelColor=0b1220&color=083344" alt="ChromaDB" />
+  <img src="https://img.shields.io/badge/WebSockets-083344?style=flat-square&labelColor=0b1220&color=083344" alt="WebSockets" />
+  <img src="https://img.shields.io/badge/n8n-083344?style=flat-square&labelColor=0b1220&color=083344" alt="n8n" />
+  <img src="https://img.shields.io/badge/HuggingFace-083344?style=flat-square&logo=huggingface&logoColor=06b6d4&labelColor=0b1220" alt="Hugging Face" />
 </p>
 
 **Languages:** English (professional) · Persian (native) · Italian (elementary)
@@ -147,25 +147,26 @@ Knowledge-graph-driven generation of verifiable, multi-hop MCQs with adaptive di
 
 ## GitHub pulse
 
+<!-- Stats cards are generated by Actions into ./profile/ (public vercel.app endpoint is paused) -->
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ErfanShm&show_icons=true&theme=transparent&hide_border=true&title_color=3dd68c&icon_color=3dd68c&text_color=c9d1d9&ring_color=3dd68c&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErfanShm&layout=compact&theme=transparent&hide_border=true&title_color=3dd68c&text_color=c9d1d9" alt="Top languages" />
+  <img height="165" src="./profile/stats.svg" alt="GitHub stats" />
+  <img height="165" src="./profile/top-langs.svg" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErfanShm&theme=dark&hide_border=true&ring=3dd68c&fire=3dd68c&currStreakLabel=3dd68c&sideLabels=8fb59f&dates=6b8f7c&background=00000000" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=ErfanShm&theme=dark&hide_border=true&ring=06b6d4&fire=06b6d4&currStreakLabel=06b6d4&sideLabels=67e8f9&dates=64748b&background=0b1220" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ErfanShm&bg_color=00000000&color=8fb59f&line=3dd68c&point=7ee0b0&area=true&hide_border=true&custom_title=Contribution%20activity" alt="Activity graph" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ErfanShm&bg_color=0b1220&color=67e8f9&line=06b6d4&point=22d3ee&area=true&hide_border=true&custom_title=Contribution%20activity" alt="Activity graph" width="95%" />
 </p>
 
-<!-- Snake appears after the workflow runs once on GitHub Actions -->
+<!-- GIF is reliable on GitHub (SVG snakes often look blank after Camo strips <style>) -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ErfanShm/ErfanShm/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ErfanShm/ErfanShm/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/ErfanShm/ErfanShm/output/github-contribution-grid-snake.svg" width="95%" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/ErfanShm/ErfanShm/output/github-contribution-grid-snake.gif" width="95%" />
   </picture>
 </p>
 
@@ -174,20 +175,20 @@ Knowledge-graph-driven generation of verifiable, multi-hop MCQs with adaptive di
 ## Connect
 
 <p align="center">
-  <a href="https://erfanshm.com"><img src="https://img.shields.io/badge/Portfolio-erfanshm.com-0b1210?style=for-the-badge&logo=vercel&logoColor=3dd68c&labelColor=0b1210&color=12241c" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/erfan-shafiee-moghadam-"><img src="https://img.shields.io/badge/LinkedIn-Erfan-0b1210?style=for-the-badge&logo=linkedin&logoColor=3dd68c&labelColor=0b1210&color=12241c" alt="LinkedIn" /></a>
-  <a href="https://huggingface.co/ErfanShm"><img src="https://img.shields.io/badge/HuggingFace-ErfanShm-0b1210?style=for-the-badge&logo=huggingface&logoColor=3dd68c&labelColor=0b1210&color=12241c" alt="Hugging Face" /></a>
-  <a href="https://www.kaggle.com/erfanshafieeaa"><img src="https://img.shields.io/badge/Kaggle-Profile-0b1210?style=for-the-badge&logo=kaggle&logoColor=3dd68c&labelColor=0b1210&color=12241c" alt="Kaggle" /></a>
-  <a href="https://medium.com/@erfanshm12"><img src="https://img.shields.io/badge/Medium-Writeups-0b1210?style=for-the-badge&logo=medium&logoColor=3dd68c&labelColor=0b1210&color=12241c" alt="Medium" /></a>
-  <a href="https://x.com/ErfaanAm"><img src="https://img.shields.io/badge/X-ErfaanAm-0b1210?style=for-the-badge&logo=x&logoColor=3dd68c&labelColor=0b1210&color=12241c" alt="X" /></a>
-  <a href="https://www.instagram.com/_erfanshm_/"><img src="https://img.shields.io/badge/Instagram-_erfanshm_-0b1210?style=for-the-badge&logo=instagram&logoColor=3dd68c&labelColor=0b1210&color=12241c" alt="Instagram" /></a>
-  <a href="mailto:erfanshm12@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-0b1210?style=for-the-badge&logo=gmail&logoColor=3dd68c&labelColor=0b1210&color=3dd68c" alt="Email" /></a>
+  <a href="https://erfanshm.com"><img src="https://img.shields.io/badge/Portfolio-erfanshm.com-0b1220?style=for-the-badge&logo=vercel&logoColor=06b6d4&labelColor=0b1220&color=083344" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/erfan-shafiee-moghadam-"><img src="https://img.shields.io/badge/LinkedIn-Erfan-0b1220?style=for-the-badge&logo=linkedin&logoColor=06b6d4&labelColor=0b1220&color=083344" alt="LinkedIn" /></a>
+  <a href="https://huggingface.co/ErfanShm"><img src="https://img.shields.io/badge/HuggingFace-ErfanShm-0b1220?style=for-the-badge&logo=huggingface&logoColor=06b6d4&labelColor=0b1220&color=083344" alt="Hugging Face" /></a>
+  <a href="https://www.kaggle.com/erfanshafieeaa"><img src="https://img.shields.io/badge/Kaggle-Profile-0b1220?style=for-the-badge&logo=kaggle&logoColor=06b6d4&labelColor=0b1220&color=083344" alt="Kaggle" /></a>
+  <a href="https://medium.com/@erfanshm12"><img src="https://img.shields.io/badge/Medium-Writeups-0b1220?style=for-the-badge&logo=medium&logoColor=06b6d4&labelColor=0b1220&color=083344" alt="Medium" /></a>
+  <a href="https://x.com/ErfaanAm"><img src="https://img.shields.io/badge/X-ErfaanAm-0b1220?style=for-the-badge&logo=x&logoColor=06b6d4&labelColor=0b1220&color=083344" alt="X" /></a>
+  <a href="https://www.instagram.com/_erfanshm_/"><img src="https://img.shields.io/badge/Instagram-_erfanshm_-0b1220?style=for-the-badge&logo=instagram&logoColor=06b6d4&labelColor=0b1220&color=083344" alt="Instagram" /></a>
+  <a href="mailto:erfanshm12@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-0b1220?style=for-the-badge&logo=gmail&logoColor=0b1220&labelColor=0b1220&color=06b6d4" alt="Email" /></a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0b1210&height=100&section=footer&text=Open%20to%20agent%20%C2%B7%20RAG%20%C2%B7%20automation%20work&fontSize=16&fontColor=3dd68c&animation=fadeIn" alt="Footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0b1220&height=100&section=footer&text=Open%20to%20agent%20%C2%B7%20RAG%20%C2%B7%20automation%20work&fontSize=16&fontColor=06b6d4&animation=fadeIn" alt="Footer" width="100%" />
 </p>
 
 <p align="center">
-  <sub>© 2026 · <a href="https://erfanshm.com">erfanshm.com</a> · Engineer · where AI meets product</sub>
+  <sub>© 2026 · <a href="https://erfanshm.com">erfanshm.com</a> · Engineer · where AI meets product · brand <code>#06b6d4</code></sub>
 </p>
