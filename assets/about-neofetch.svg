@@ -6,7 +6,7 @@
   <rect x="24" y="24" width="220" height="212" rx="12" fill="#0a0f0d" stroke="#274636"/>
   <text x="134" y="100" text-anchor="middle" fill="#3dd68c" font-family="Consolas, Menlo, monospace" font-size="42" font-weight="700">ES</text>
   <text x="134" y="130" text-anchor="middle" fill="#6b8f7c" font-family="Consolas, Menlo, monospace" font-size="12">erfanshm</text>
-  <text x="134" y="158" text-anchor="middle" fill="#8fb59f" font-family="Consolas, Menlo, monospace" font-size="11">AI × Product</text>
+  <text x="134" y="158" text-anchor="middle" fill="#8fb59f" font-family="Consolas, Menlo, monospace" font-size="11">AI ï¿½ Product</text>
   <circle cx="134" cy="190" r="5" fill="#3dd68c">
     <animate attributeName="opacity" values="1;0.35;1" dur="2s" repeatCount="indefinite"/>
   </circle>
@@ -19,11 +19,11 @@
     <text x="280" y="100" fill="#6b8f7c">OS</text>
     <text x="380" y="100" fill="#e8f5ee">Enterprise AI systems</text>
     <text x="280" y="126" fill="#6b8f7c">Host</text>
-    <text x="380" y="126" fill="#e8f5ee">MemaranSoft · SmartEra</text>
+    <text x="380" y="126" fill="#e8f5ee">MemaranSoft ï¿½ SmartEra</text>
     <text x="280" y="152" fill="#6b8f7c">Kernel</text>
-    <text x="380" y="152" fill="#e8f5ee">RAG · Agents · Knowledge Graphs</text>
+    <text x="380" y="152" fill="#e8f5ee">RAG ï¿½ Agents ï¿½ Knowledge Graphs</text>
     <text x="280" y="178" fill="#6b8f7c">Shell</text>
-    <text x="380" y="178" fill="#e8f5ee">Python · FastAPI · LangGraph</text>
+    <text x="380" y="178" fill="#e8f5ee">Python ï¿½ FastAPI ï¿½ LangGraph</text>
     <text x="280" y="204" fill="#6b8f7c">Uptime</text>
     <text x="380" y="204" fill="#e8f5ee">shipping since 2021</text>
     <text x="280" y="230" fill="#6b8f7c">Theme</text>

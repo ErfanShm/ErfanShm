@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="130" viewBox="0 0 1100 130">
+  <!-- Moderate HUD strip - inspired by console stat tiles, not a full cyberpunk frame -->
+  <rect width="1100" height="130" fill="#070b12"/>
+
+  <!-- tile 1 -->
+  <rect x="0" y="8" width="260" height="114" rx="4" fill="#0b1220" stroke="#1a2740"/>
+  <path d="M0 28 V8 H20" fill="none" stroke="#00d9ff" stroke-width="2"/>
+  <text x="20" y="40" fill="#6b7c93" font-family="Consolas, Menlo, monospace" font-size="11">01 RESEARCH</text>
+  <text x="20" y="72" fill="#00d9ff" font-family="Consolas, Menlo, monospace" font-size="22" font-weight="700">KNIGHT</text>
+  <text x="20" y="98" fill="#8b9bb4" font-family="Consolas, Menlo, monospace" font-size="11">CPAL 2026 � graph eval</text>
+
+  <!-- tile 2 -->
+  <rect x="280" y="8" width="260" height="114" rx="4" fill="#0b1220" stroke="#1a2740"/>
+  <path d="M280 28 V8 H300" fill="none" stroke="#00d9ff" stroke-width="2"/>
+  <text x="300" y="40" fill="#6b7c93" font-family="Consolas, Menlo, monospace" font-size="11">02 PRODUCTION</text>
+  <text x="300" y="72" fill="#00d9ff" font-family="Consolas, Menlo, monospace" font-size="22" font-weight="700">UGAP</text>
+  <text x="300" y="98" fill="#8b9bb4" font-family="Consolas, Menlo, monospace" font-size="11">RAG � live streaming</text>
+
+  <!-- tile 3 -->
+  <rect x="560" y="8" width="260" height="114" rx="4" fill="#0b1220" stroke="#1a2740"/>
+  <path d="M560 28 V8 H580" fill="none" stroke="#00d9ff" stroke-width="2"/>
+  <text x="580" y="40" fill="#6b7c93" font-family="Consolas, Menlo, monospace" font-size="11">03 PLATFORM</text>
+  <text x="580" y="72" fill="#00d9ff" font-family="Consolas, Menlo, monospace" font-size="22" font-weight="700">UTEX</text>
+  <text x="580" y="98" fill="#8b9bb4" font-family="Consolas, Menlo, monospace" font-size="11">35+ API routes</text>
+
+  <!-- tile 4 -->
+  <rect x="840" y="8" width="260" height="114" rx="4" fill="#0b1220" stroke="#1a2740"/>
+  <path d="M840 28 V8 H860" fill="none" stroke="#00d9ff" stroke-width="2"/>
+  <text x="860" y="40" fill="#6b7c93" font-family="Consolas, Menlo, monospace" font-size="11">04 OPEN SOURCE</text>
+  <text x="860" y="72" fill="#00d9ff" font-family="Consolas, Menlo, monospace" font-size="22" font-weight="700">ChatDoc</text>
+  <text x="860" y="98" fill="#8b9bb4" font-family="Consolas, Menlo, monospace" font-size="11">document RAG</text>
+</svg>

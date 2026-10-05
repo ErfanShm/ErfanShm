@@ -5,7 +5,7 @@
   </rect>
   <text x="36" y="42" fill="#6b8f7c" font-family="Consolas, Menlo, monospace" font-size="13">$ cat current_focus.md</text>
   <text x="36" y="78" fill="#e8f5ee" font-family="Consolas, Menlo, monospace" font-size="20" font-weight="700">Building production AI systems that ship</text>
-  <text x="36" y="112" fill="#8fb59f" font-family="Consolas, Menlo, monospace" font-size="14">Production RAG · Multi-agent orchestration · Knowledge graphs · API gateways</text>
+  <text x="36" y="112" fill="#8fb59f" font-family="Consolas, Menlo, monospace" font-size="14">Production RAG ï¿½ Multi-agent orchestration ï¿½ Knowledge graphs ï¿½ API gateways</text>
   <rect x="36" y="132" width="120" height="26" rx="7" fill="#12241c" stroke="#274636"/>
   <text x="52" y="149" fill="#b7dcc7" font-family="Consolas, Menlo, monospace" font-size="12">UGAP</text>
   <rect x="168" y="132" width="120" height="26" rx="7" fill="#12241c" stroke="#274636"/>
