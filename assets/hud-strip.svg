@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="160" viewBox="0 0 1100 160">
+  <rect width="1100" height="160" fill="#0b1218"/>
+  <g>
+    <rect x="0" y="20" width="350" height="120" rx="4" fill="#0e1620" stroke="#243040"/>
+    <path d="M0 36 V20 H16" fill="none" stroke="#00d4ff" stroke-width="2"/>
+    <text x="24" y="52" fill="#6a8090" font-family="Consolas, Menlo, monospace" font-size="11">FOCUS</text>
+    <text x="24" y="88" fill="#00d4ff" font-family="Consolas, Menlo, monospace" font-size="22" font-weight="700">RAG + Agents</text>
+    <text x="24" y="116" fill="#8a9aaa" font-family="Consolas, Menlo, monospace" font-size="12">production systems that ship</text>
+  </g>
+  <g>
+    <rect x="375" y="20" width="350" height="120" rx="4" fill="#0e1620" stroke="#243040"/>
+    <path d="M375 36 V20 H391" fill="none" stroke="#00d4ff" stroke-width="2"/>
+    <text x="399" y="52" fill="#6a8090" font-family="Consolas, Menlo, monospace" font-size="11">RESEARCH</text>
+    <text x="399" y="88" fill="#e8eef4" font-family="Consolas, Menlo, monospace" font-size="22" font-weight="700">KNIGHT</text>
+    <text x="399" y="116" fill="#8a9aaa" font-family="Consolas, Menlo, monospace" font-size="12">CPAL 2026 - knowledge graphs</text>
+  </g>
+  <g>
+    <rect x="750" y="20" width="350" height="120" rx="4" fill="#0e1620" stroke="#243040"/>
+    <path d="M750 36 V20 H766" fill="none" stroke="#00d4ff" stroke-width="2"/>
+    <text x="774" y="52" fill="#6a8090" font-family="Consolas, Menlo, monospace" font-size="11">STACK</text>
+    <text x="774" y="88" fill="#e8eef4" font-family="Consolas, Menlo, monospace" font-size="18" font-weight="700">Python - FastAPI</text>
+    <text x="774" y="116" fill="#8a9aaa" font-family="Consolas, Menlo, monospace" font-size="12">LangGraph - Neo4j - Redis</text>
+  </g>
+</svg>

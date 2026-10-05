@@ -1,14 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="48" viewBox="0 0 900 48">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="24" viewBox="0 0 900 24">
   <defs>
     <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#3dd68c" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#3dd68c" stop-opacity="0.85"/>
-      <stop offset="100%" stop-color="#3dd68c" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#00d4ff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#00d4ff" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#00d4ff" stop-opacity="0"/>
     </linearGradient>
   </defs>
-  <rect x="40" y="23" width="820" height="2" fill="url(#g)"/>
-  <rect x="420" y="14" width="60" height="20" rx="10" fill="#0b1210" stroke="#274636"/>
-  <circle cx="450" cy="24" r="3" fill="#3dd68c">
-    <animate attributeName="opacity" values="0.35;1;0.35" dur="2s" repeatCount="indefinite"/>
-  </circle>
+  <rect x="80" y="11" width="740" height="1" fill="url(#g)"/>
 </svg>

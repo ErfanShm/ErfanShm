@@ -28,7 +28,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=dark&title_color=3dd68c&icon_color=3dd68c&text_color=c9d1d9&bg_color=0b1210&ring_color=3dd68c&hide_border=true
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=dark&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&bg_color=0b1218&ring_color=00d4ff&hide_border=true
           path: profile/stats.svg
           token: ${{ secrets.GH_STATS_TOKEN || secrets.GITHUB_TOKEN }}
           fail_on_error: false
@@ -37,7 +37,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=dark&title_color=3dd68c&text_color=c9d1d9&bg_color=0b1210&hide_border=true
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=dark&title_color=00d4ff&text_color=c9d1d9&bg_color=0b1218&hide_border=true
           path: profile/top-langs.svg
           token: ${{ secrets.GH_STATS_TOKEN || secrets.GITHUB_TOKEN }}
           fail_on_error: false
@@ -45,7 +45,7 @@ jobs:
       - name: Commit cards
         run: |
           if grep -q "Something went wrong" profile/stats.svg profile/top-langs.svg 2>/dev/null; then
-            echo "Stats API returned an error card ó keeping previous SVGs"
+            echo "Stats API returned an error card ù keeping previous SVGs"
             git checkout -- profile/stats.svg profile/top-langs.svg || true
             exit 0
           fi
