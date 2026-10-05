@@ -12,7 +12,7 @@
   <a href="https://erfanshm.com"><img src="https://img.shields.io/badge/Website-erfanshm.com-070b12?style=flat-square&logo=googlechrome&logoColor=00d9ff&labelColor=0b1220&color=0b1220" alt="Website" /></a>
   <a href="mailto:erfanshm12@gmail.com"><img src="https://img.shields.io/badge/Email-erfanshm12%40gmail.com-070b12?style=flat-square&logo=gmail&logoColor=00d9ff&labelColor=0b1220&color=0b1220" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/erfan-shafiee-moghadam-"><img src="https://img.shields.io/badge/LinkedIn-Connect-070b12?style=flat-square&logo=linkedin&logoColor=00d9ff&labelColor=0b1220&color=0b1220" alt="LinkedIn" /></a>
-  <img src="https://komarev.com/ghpvc/?username=ErfanShm&style=flat-square&color=0b1220&label=views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ErfanShm&style=flat-square&color=00d9ff&label=views&labelColor=0b1220" alt="Profile views" />
 </p>
 
 <p align="center">
