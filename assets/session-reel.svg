@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="340" viewBox="0 0 1100 340">
+  <!-- Animated session reel - custom, not a template clone -->
+  <rect width="1100" height="340" rx="16" fill="#0a0f0d"/>
+  <rect x="1" y="1" width="1098" height="338" rx="15" fill="none" stroke="#1f3a2e" stroke-width="2"/>
+  <rect x="1" y="1" width="1098" height="42" rx="15" fill="#0f1a16"/>
+  <rect x="1" y="28" width="1098" height="15" fill="#0f1a16"/>
+  <circle cx="28" cy="22" r="6" fill="#ff5f56"/>
+  <circle cx="48" cy="22" r="6" fill="#ffbd2e"/>
+  <circle cx="68" cy="22" r="6" fill="#27c93f"/>
+  <text x="550" y="26" text-anchor="middle" fill="#6b8f7c" font-family="Consolas, Menlo, monospace" font-size="13">session - erfanshm.dev-reel</text>
+
+  <g font-family="Consolas, Menlo, monospace" font-size="15">
+    <text x="28" y="78" fill="#6b8f7c">~/evening</text>
+
+    <g>
+      <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.08;1" dur="10s" repeatCount="indefinite"/>
+      <text x="28" y="110" fill="#3dd68c" font-weight="700">$</text>
+      <text x="52" y="110" fill="#e8f5ee">whoami --product</text>
+    </g>
+
+    <g>
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.12;0.18;1" dur="10s" repeatCount="indefinite"/>
+      <text x="28" y="138" fill="#b7dcc7">AI Systems Architect  |  Production RAG  |  Multi-Agent</text>
+    </g>
+
+    <g>
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.28;0.34;1" dur="10s" repeatCount="indefinite"/>
+      <text x="28" y="174" fill="#3dd68c" font-weight="700">$</text>
+      <text x="52" y="174" fill="#e8f5ee">./build_ai_product.sh --scale enterprise</text>
+    </g>
+
+    <g>
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.40;0.48;1" dur="10s" repeatCount="indefinite"/>
+      <text x="28" y="202" fill="#8fb59f">[ok] UGAP RAG streaming</text>
+      <text x="28" y="226" fill="#8fb59f">[ok] UTEX gateway 35+ routes</text>
+      <text x="28" y="250" fill="#8fb59f">[ok] KNIGHT eval graph  (CPAL 2026)</text>
+    </g>
+
+    <g>
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.58;0.66;1" dur="10s" repeatCount="indefinite"/>
+      <text x="28" y="286" fill="#3dd68c" font-weight="700">$</text>
+      <text x="52" y="286" fill="#e8f5ee">open https://erfanshm.com</text>
+      <rect x="300" y="272" width="9" height="16" fill="#3dd68c">
+        <animate attributeName="opacity" values="1;0;1" dur="1.05s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </g>
+
+  <rect x="1" y="1" width="4" height="338" fill="#3dd68c">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="3s" repeatCount="indefinite"/>
+  </rect>
+</svg>

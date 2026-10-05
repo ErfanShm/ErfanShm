@@ -1,74 +1,75 @@
 <!--
   ErfanShm Profile README
-  Brand mint: #3dd68c
+  Hybrid: terminal session reel + neofetch identity + bento work + live pulse
+  Brand mint: #3dd68c · no template clone
 -->
 
+<!-- ========== HERO ========== -->
 <p align="center">
   <img src="./assets/hero-banner.png" alt="Erfan Shafiee Moghaddam — AI Systems Architect" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://erfanshm.com">
-    <img src="https://img.shields.io/badge/Website-erfanshm.com-0b1210?style=for-the-badge&logo=googlechrome&logoColor=3dd68c&labelColor=0b1210&color=12241c" alt="Website" />
-  </a>
-  <a href="mailto:erfanshm12@gmail.com">
-    <img src="https://img.shields.io/badge/Email-erfanshm12%40gmail.com-0b1210?style=for-the-badge&logo=gmail&logoColor=3dd68c&labelColor=0b1210&color=12241c" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/erfan-shafiee-moghadam-">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0b1210?style=for-the-badge&logo=linkedin&logoColor=3dd68c&labelColor=0b1210&color=12241c" alt="LinkedIn" />
-  </a>
+  <a href="https://erfanshm.com"><img src="https://img.shields.io/badge/Website-erfanshm.com-0b1210?style=for-the-badge&logo=googlechrome&logoColor=3dd68c&labelColor=0b1210&color=12241c" alt="Website" /></a>
+  <a href="mailto:erfanshm12@gmail.com"><img src="https://img.shields.io/badge/Email-erfanshm12%40gmail.com-0b1210?style=for-the-badge&logo=gmail&logoColor=3dd68c&labelColor=0b1210&color=12241c" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/erfan-shafiee-moghadam-"><img src="https://img.shields.io/badge/LinkedIn-Connect-0b1210?style=for-the-badge&logo=linkedin&logoColor=3dd68c&labelColor=0b1210&color=12241c" alt="LinkedIn" /></a>
   <img src="https://komarev.com/ghpvc/?username=ErfanShm&style=for-the-badge&color=12241c&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=3DD68C&center=true&vCenter=true&width=720&height=40&lines=AI+Systems+Architect;Production+RAG+%26+Multi-Agent+Workflows;Knowledge+Graphs+%C2%B7+LangGraph+%C2%B7+FastAPI;I+turn+complex+AI+into+enterprise+products">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=3DD68C&center=true&vCenter=true&width=720&height=40&lines=AI+Systems+Architect;Production+RAG+%26+Multi-Agent+Workflows;Knowledge+Graphs+%C2%B7+LangGraph+%C2%B7+FastAPI;I+turn+complex+AI+into+enterprise+products" alt="Typing titles" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=3DD68C&center=true&vCenter=true&width=780&height=36&lines=AI+Systems+Architect;Production+RAG+%26+Multi-Agent+Workflows;I+turn+complex+AI+into+enterprise+products" alt="Typing" />
 </p>
 
 <p align="center">
-  <img src="./assets/divider.png" alt="" width="70%" />
+  <img src="./assets/divider.png" alt="" width="60%" />
 </p>
 
-## `whoami`
+<!-- ========== SESSION REEL (dev-reel energy, custom script) ========== -->
+<p align="center">
+  <img src="./assets/session-reel.svg" alt="Animated session reel" width="95%" />
+</p>
 
-I turn complex AI concepts into **enterprise-ready products**.
+<!-- ========== IDENTITY (neofetch × product) ========== -->
+<p align="center">
+  <img src="./assets/about-neofetch.png" alt="About / neofetch identity" width="95%" />
+</p>
 
-As a product-minded **AI Systems Architect**, I design Production RAG platforms and multi-agent workflows that solve real business problems — not demos. My work spans UGAP, UTEX, and KNIGHT: systems meant to ship, scale, and become a growth lever.
-
-I thrive on ambiguity. If you need a visionary idea turned into a reliable, market-ready AI solution — let's talk.
+I turn complex AI concepts into **enterprise-ready products** — Production RAG, multi-agent workflows, and knowledge graphs that ship (UGAP, UTEX, KNIGHT).
 
 <p align="center">
-  <img src="./assets/focus-panel.png" alt="Current focus" width="90%" />
+  <img src="./assets/divider.png" alt="" width="60%" />
 </p>
 
----
-
-## Featured work
-
-| # | Project | What it is | Stack / impact |
-|:-:|:--------|:-----------|:---------------|
-| 01 | **[KNIGHT](https://github.com/ErfanShm/knight-mcq)** | Knowledge-graph framework for verifiable multi-hop MCQ evaluation · CPAL 2026 · PyPI `knight-mcq` | Neo4j · RAG eval · LLMs · [arXiv:2602.20135](https://arxiv.org/abs/2602.20135) |
-| 02 | **UGAP** | Unified Generative AI Platform — production RAG with 7+ vector collections & live token streaming | FastAPI · LangChain · WebSockets · PostgreSQL · Redis |
-| 03 | **UTEX** | Smart editorial AI platform — unified API gateway orchestrating multi-modal LLM workflows | 35+ endpoints · credit billing · RBAC |
-| 04 | **[ChatDoc](https://github.com/ErfanShm/ChatDoc)** | Document RAG chatbot — upload docs, query with grounded answers | RAG · retrieval + generation |
-| 05 | **[Sentiment & Emotion App](https://github.com/ErfanShm/sentiment-emotion-analysis-app)** | DistilBERT sentiment tooling with Streamlit / Gradio UIs | NLP · Hugging Face · FastAPI |
+<!-- ========== BENTO WORK ========== -->
+### selected work
 
 <p align="center">
-  <a href="https://github.com/ErfanShm?tab=repositories">
-    <img src="https://img.shields.io/badge/More_on_GitHub-→-0b1210?style=for-the-badge&labelColor=0b1210&color=3dd68c" alt="More on GitHub" />
-  </a>
-  <a href="https://erfanshm.com">
-    <img src="https://img.shields.io/badge/Full_case_studies-erfanshm.com-0b1210?style=for-the-badge&labelColor=0b1210&color=12241c" alt="Portfolio" />
-  </a>
+  <img src="./assets/bento-work.png" alt="Featured work bento" width="95%" />
 </p>
 
----
+<p align="center">
+  <a href="https://github.com/ErfanShm/knight-mcq"><img src="https://img.shields.io/badge/01_KNIGHT-repo-0b1210?style=for-the-badge&labelColor=0b1210&color=3dd68c" alt="KNIGHT" /></a>
+  <a href="https://github.com/ErfanShm/ChatDoc"><img src="https://img.shields.io/badge/04_ChatDoc-repo-0b1210?style=for-the-badge&labelColor=0b1210&color=12241c" alt="ChatDoc" /></a>
+  <a href="https://erfanshm.com"><img src="https://img.shields.io/badge/Case_studies-erfanshm.com-0b1210?style=for-the-badge&labelColor=0b1210&color=12241c" alt="Portfolio" /></a>
+</p>
 
-## Career
+<details>
+<summary><strong>more ships</strong> · Sentiment app · Hooshews · Smarties · Excel tools</summary>
+<br/>
+
+- [Sentiment & Emotion App](https://github.com/ErfanShm/sentiment-emotion-analysis-app) — DistilBERT + Streamlit/Gradio
+- Full case studies on [erfanshm.com](https://erfanshm.com)
+
+</details>
+
+<p align="center">
+  <img src="./assets/divider.png" alt="" width="60%" />
+</p>
+
+<!-- ========== CAREER (compact terminal log) ========== -->
+### career.log
 
 ```bash
-# professional path
 2025–2026  AI Engineer & RAG Architect     @ MemaranSoft
 2024–2026  AI Software Developer           @ SmartEra Organization
 2024       GenAI Intern                    @ Asr Gooyesh Pardaz
@@ -76,88 +77,62 @@ I thrive on ambiguity. If you need a visionary idea turned into a reliable, mark
 ```
 
 <details>
-<summary><strong>MemaranSoft — AI Engineer & RAG Architect</strong> · Apr 2025 – Apr 2026</summary>
+<summary><strong>expand roles</strong></summary>
 <br/>
 
-- Led architecture for enterprise AI platforms during the company’s shift to AI-driven products.
-- **UGAP:** production RAG with 7+ specialized vector collections, adaptive query processing, real-time WebSocket streaming.
-- **UTEX:** FastAPI + LangChain backend and API gateway (35+ endpoints), multi-modal LLM workflows, credit billing, RBAC.
+**MemaranSoft** — UGAP (7+ vector collections, WebSocket streaming) · UTEX (35+ endpoint gateway, billing, RBAC)
 
-`Python` `FastAPI` `LangChain` `RAG` `WebSockets` `PostgreSQL` `Redis`
+**SmartEra** — Neo4j fact-checking KG · prompt optimizer · LangGraph agents · n8n/Zapier
+
+**Asr Gooyesh** — Telegram/Bale RAG bots · pip sentiment package · FastAPI/Gradio UIs
+
+**Research** — [KNIGHT](https://github.com/ErfanShm/knight-mcq) · CPAL 2026 · `arXiv:2602.20135` · B.S. Software Eng (ATU)
+
 </details>
-
-<details>
-<summary><strong>SmartEra — AI Software Developer</strong> · Dec 2024 – Feb 2026</summary>
-<br/>
-
-- Neo4j knowledge-graph extraction + fact-checking DB to validate multi-agent RAG outputs.
-- Dynamic prompt refiner/optimizer bridging raw LLM capability and strict business logic.
-- LLM / RAG / agent systems integrated with n8n, Zapier, LangChain / LangGraph.
-
-`Neo4j` `LangGraph` `LangChain` `Prompt Engineering` `n8n`
-</details>
-
-<details>
-<summary><strong>Asr Gooyesh Pardaz — GenAI Intern</strong> · Jul 2024 – Oct 2024</summary>
-<br/>
-
-- RAG QA chatbots for Telegram & Bale (LangChain, LlamaIndex, FAISS).
-- Multi-class sentiment package published for pip install.
-- ML UIs with FastAPI, Streamlit, Gradio.
-
-`FAISS` `LlamaIndex` `FastAPI` `NLP`
-</details>
-
----
-
-## Research
-
-**[KNIGHT Framework](https://github.com/ErfanShm/knight-mcq)** · Co-author · Accepted at **CPAL 2026**
-
-Knowledge-graph-driven generation of verifiable, multi-hop MCQs with adaptive difficulty — scalable evaluation for LLMs and RAG without repetitive manual labeling.
-
-`PyPI: knight-mcq` · `arXiv: 2602.20135`
-
-**Education** — B.S. Computer Software Engineering, Allameh Tabataba'i University (2020–2024) · GPA 3.5
-
----
-
-## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,postgres,redis,neo4j,linux,git,github,vscode&perline=10" alt="Core stack" />
+  <img src="./assets/divider.png" alt="" width="60%" />
+</p>
+
+<!-- ========== STACK ========== -->
+### toolchain
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,postgres,redis,neo4j,linux,git,github,vscode&perline=10" alt="Stack" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LangChain-12241c?style=flat-square&logoColor=3dd68c&labelColor=0b1210" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangChain-12241c?style=flat-square&labelColor=0b1210&color=12241c" alt="LangChain" />
   <img src="https://img.shields.io/badge/LangGraph-12241c?style=flat-square&labelColor=0b1210&color=12241c" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/RAG-12241c?style=flat-square&labelColor=0b1210&color=12241c" alt="RAG" />
-  <img src="https://img.shields.io/badge/LLMs-12241c?style=flat-square&labelColor=0b1210&color=12241c" alt="LLMs" />
+  <img src="https://img.shields.io/badge/RAG-3dd68c?style=flat-square&labelColor=0b1210&color=3dd68c" alt="RAG" />
   <img src="https://img.shields.io/badge/Agents-12241c?style=flat-square&labelColor=0b1210&color=12241c" alt="Agents" />
   <img src="https://img.shields.io/badge/FAISS-12241c?style=flat-square&labelColor=0b1210&color=12241c" alt="FAISS" />
-  <img src="https://img.shields.io/badge/ChromaDB-12241c?style=flat-square&labelColor=0b1210&color=12241c" alt="ChromaDB" />
-  <img src="https://img.shields.io/badge/WebSockets-12241c?style=flat-square&labelColor=0b1210&color=12241c" alt="WebSockets" />
   <img src="https://img.shields.io/badge/n8n-12241c?style=flat-square&labelColor=0b1210&color=12241c" alt="n8n" />
-  <img src="https://img.shields.io/badge/HuggingFace-12241c?style=flat-square&logo=huggingface&logoColor=3dd68c&labelColor=0b1210" alt="Hugging Face" />
-</p>
-
-**Languages:** English (professional) · Persian (native) · Italian (elementary)
-
----
-
-## GitHub pulse
-
-<p align="center">
-  <img height="170" src="./profile/stats.svg" alt="GitHub stats" />
-  <img height="170" src="./profile/top-langs.svg" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ErfanShm&theme=dark&hide_border=true&ring=3dd68c&fire=3dd68c&currStreakLabel=3dd68c&sideLabels=8fb59f&dates=6b8f7c&background=0b1210" alt="GitHub streak" />
+  <img src="./assets/divider.png" alt="" width="60%" />
+</p>
+
+<!-- ========== PULSE (lean live widgets) ========== -->
+### pulse
+
+<p align="center">
+  <img height="160" src="./profile/stats.svg" alt="GitHub stats" />
+  <img height="160" src="./profile/top-langs.svg" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ErfanShm&bg_color=0b1210&color=8fb59f&line=3dd68c&point=7ee0b0&area=true&hide_border=true&custom_title=Contribution%20activity" alt="Activity graph" width="95%" />
+  <img src="https://streak-stats.demolab.com?user=ErfanShm&theme=dark&hide_border=true&ring=3dd68c&fire=3dd68c&currStreakLabel=3dd68c&sideLabels=8fb59f&dates=6b8f7c&background=0b1210" alt="Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ErfanShm&theme=github_dark" width="95%" alt="Profile details" />
+</p>
+
+<p align="center">
+  <img height="155" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ErfanShm&theme=github_dark&utcOffset=3.5" alt="Productive time" />
+  <img height="155" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ErfanShm&theme=github_dark" alt="Repos per language" />
 </p>
 
 <p align="center">
@@ -168,25 +143,26 @@ Knowledge-graph-driven generation of verifiable, multi-hop MCQs with adaptive di
   </picture>
 </p>
 
----
+<p align="center">
+  <img src="./assets/divider.png" alt="" width="60%" />
+</p>
 
-## Connect
+<!-- ========== CONNECT ========== -->
+### connect
 
 <p align="center">
   <a href="https://erfanshm.com"><img src="https://img.shields.io/badge/Portfolio-erfanshm.com-0b1210?style=for-the-badge&logo=vercel&logoColor=3dd68c&labelColor=0b1210&color=12241c" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/erfan-shafiee-moghadam-"><img src="https://img.shields.io/badge/LinkedIn-Erfan-0b1210?style=for-the-badge&logo=linkedin&logoColor=3dd68c&labelColor=0b1210&color=12241c" alt="LinkedIn" /></a>
-  <a href="https://huggingface.co/ErfanShm"><img src="https://img.shields.io/badge/HuggingFace-ErfanShm-0b1210?style=for-the-badge&logo=huggingface&logoColor=3dd68c&labelColor=0b1210&color=12241c" alt="Hugging Face" /></a>
-  <a href="https://www.kaggle.com/erfanshafieeaa"><img src="https://img.shields.io/badge/Kaggle-Profile-0b1210?style=for-the-badge&logo=kaggle&logoColor=3dd68c&labelColor=0b1210&color=12241c" alt="Kaggle" /></a>
-  <a href="https://medium.com/@erfanshm12"><img src="https://img.shields.io/badge/Medium-Writeups-0b1210?style=for-the-badge&logo=medium&logoColor=3dd68c&labelColor=0b1210&color=12241c" alt="Medium" /></a>
-  <a href="https://x.com/ErfaanAm"><img src="https://img.shields.io/badge/X-ErfaanAm-0b1210?style=for-the-badge&logo=x&logoColor=3dd68c&labelColor=0b1210&color=12241c" alt="X" /></a>
-  <a href="https://www.instagram.com/_erfanshm_/"><img src="https://img.shields.io/badge/Instagram-_erfanshm_-0b1210?style=for-the-badge&logo=instagram&logoColor=3dd68c&labelColor=0b1210&color=12241c" alt="Instagram" /></a>
+  <a href="https://www.linkedin.com/in/erfan-shafiee-moghadam-"><img src="https://img.shields.io/badge/LinkedIn-0b1210?style=for-the-badge&logo=linkedin&logoColor=3dd68c&labelColor=0b1210&color=12241c" alt="LinkedIn" /></a>
+  <a href="https://huggingface.co/ErfanShm"><img src="https://img.shields.io/badge/HuggingFace-0b1210?style=for-the-badge&logo=huggingface&logoColor=3dd68c&labelColor=0b1210&color=12241c" alt="HF" /></a>
+  <a href="https://www.kaggle.com/erfanshafieeaa"><img src="https://img.shields.io/badge/Kaggle-0b1210?style=for-the-badge&logo=kaggle&logoColor=3dd68c&labelColor=0b1210&color=12241c" alt="Kaggle" /></a>
+  <a href="https://medium.com/@erfanshm12"><img src="https://img.shields.io/badge/Medium-0b1210?style=for-the-badge&logo=medium&logoColor=3dd68c&labelColor=0b1210&color=12241c" alt="Medium" /></a>
   <a href="mailto:erfanshm12@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-0b1210?style=for-the-badge&logo=gmail&logoColor=0b1210&labelColor=0b1210&color=3dd68c" alt="Email" /></a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0b1210&height=100&section=footer&text=Open%20to%20agent%20%C2%B7%20RAG%20%C2%B7%20automation%20work&fontSize=16&fontColor=3dd68c&animation=fadeIn" alt="Footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0b1210&height=90&section=footer&text=Open%20to%20agent%20%C2%B7%20RAG%20%C2%B7%20automation%20work&fontSize=15&fontColor=3dd68c&animation=fadeIn" alt="Footer" width="100%" />
 </p>
 
 <p align="center">
-  <sub>© 2026 · <a href="https://erfanshm.com">erfanshm.com</a> · Engineer · where AI meets product</sub>
+  <sub>© 2026 · <a href="https://erfanshm.com">erfanshm.com</a> · where AI meets product · brand <code>#3dd68c</code></sub>
 </p>

@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="420" viewBox="0 0 1100 420">
+  <!-- Bento work grid - mint terminal language -->
+  <rect width="1100" height="420" fill="#0a0f0d"/>
+
+  <!-- Card 01 KNIGHT -->
+  <rect x="0" y="0" width="540" height="200" rx="16" fill="#0b1210" stroke="#1f3a2e" stroke-width="2"/>
+  <text x="28" y="42" fill="#3dd68c" font-family="Consolas, Menlo, monospace" font-size="12">01 / RESEARCH</text>
+  <text x="28" y="78" fill="#f8fafc" font-family="Consolas, Menlo, monospace" font-size="22" font-weight="700">KNIGHT</text>
+  <text x="28" y="108" fill="#8fb59f" font-family="Consolas, Menlo, monospace" font-size="13">Knowledge-graph MCQ evaluation</text>
+  <text x="28" y="132" fill="#6b8f7c" font-family="Consolas, Menlo, monospace" font-size="12">CPAL 2026  �  PyPI knight-mcq  �  arXiv</text>
+  <rect x="28" y="156" width="90" height="24" rx="6" fill="#12241c" stroke="#274636"/>
+  <text x="42" y="172" fill="#b7dcc7" font-family="Consolas, Menlo, monospace" font-size="11">Neo4j</text>
+  <rect x="128" y="156" width="70" height="24" rx="6" fill="#12241c" stroke="#274636"/>
+  <text x="142" y="172" fill="#b7dcc7" font-family="Consolas, Menlo, monospace" font-size="11">RAG</text>
+  <rect x="208" y="156" width="70" height="24" rx="6" fill="#12241c" stroke="#274636"/>
+  <text x="222" y="172" fill="#b7dcc7" font-family="Consolas, Menlo, monospace" font-size="11">LLMs</text>
+
+  <!-- Card 02 UGAP -->
+  <rect x="560" y="0" width="540" height="200" rx="16" fill="#0b1210" stroke="#1f3a2e" stroke-width="2"/>
+  <text x="588" y="42" fill="#3dd68c" font-family="Consolas, Menlo, monospace" font-size="12">02 / PRODUCTION</text>
+  <text x="588" y="78" fill="#f8fafc" font-family="Consolas, Menlo, monospace" font-size="22" font-weight="700">UGAP</text>
+  <text x="588" y="108" fill="#8fb59f" font-family="Consolas, Menlo, monospace" font-size="13">Unified Generative AI Platform</text>
+  <text x="588" y="132" fill="#6b8f7c" font-family="Consolas, Menlo, monospace" font-size="12">7+ vector collections  �  live token stream</text>
+  <rect x="588" y="156" width="100" height="24" rx="6" fill="#12241c" stroke="#274636"/>
+  <text x="602" y="172" fill="#b7dcc7" font-family="Consolas, Menlo, monospace" font-size="11">FastAPI</text>
+  <rect x="698" y="156" width="110" height="24" rx="6" fill="#12241c" stroke="#274636"/>
+  <text x="712" y="172" fill="#b7dcc7" font-family="Consolas, Menlo, monospace" font-size="11">LangChain</text>
+
+  <!-- Card 03 UTEX -->
+  <rect x="0" y="220" width="540" height="200" rx="16" fill="#0b1210" stroke="#1f3a2e" stroke-width="2"/>
+  <text x="28" y="262" fill="#3dd68c" font-family="Consolas, Menlo, monospace" font-size="12">03 / PLATFORM</text>
+  <text x="28" y="298" fill="#f8fafc" font-family="Consolas, Menlo, monospace" font-size="22" font-weight="700">UTEX</text>
+  <text x="28" y="328" fill="#8fb59f" font-family="Consolas, Menlo, monospace" font-size="13">Smart editorial AI gateway</text>
+  <text x="28" y="352" fill="#6b8f7c" font-family="Consolas, Menlo, monospace" font-size="12">35+ endpoints  �  billing  �  RBAC</text>
+  <rect x="28" y="376" width="120" height="24" rx="6" fill="#12241c" stroke="#274636"/>
+  <text x="42" y="392" fill="#b7dcc7" font-family="Consolas, Menlo, monospace" font-size="11">API Gateway</text>
+
+  <!-- Card 04 ChatDoc -->
+  <rect x="560" y="220" width="540" height="200" rx="16" fill="#0b1210" stroke="#1f3a2e" stroke-width="2"/>
+  <text x="588" y="262" fill="#3dd68c" font-family="Consolas, Menlo, monospace" font-size="12">04 / OPEN SOURCE</text>
+  <text x="588" y="298" fill="#f8fafc" font-family="Consolas, Menlo, monospace" font-size="22" font-weight="700">ChatDoc</text>
+  <text x="588" y="328" fill="#8fb59f" font-family="Consolas, Menlo, monospace" font-size="13">Document RAG chatbot</text>
+  <text x="588" y="352" fill="#6b8f7c" font-family="Consolas, Menlo, monospace" font-size="12">upload  �  retrieve  �  grounded answers</text>
+  <rect x="588" y="376" width="70" height="24" rx="6" fill="#12241c" stroke="#274636"/>
+  <text x="602" y="392" fill="#b7dcc7" font-family="Consolas, Menlo, monospace" font-size="11">RAG</text>
+  <rect x="668" y="376" width="100" height="24" rx="6" fill="#12241c" stroke="#274636"/>
+  <text x="682" y="392" fill="#b7dcc7" font-family="Consolas, Menlo, monospace" font-size="11">Python</text>
+
+  <!-- soft pulse accents -->
+  <circle cx="520" cy="20" r="3" fill="#3dd68c">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1080" cy="240" r="3" fill="#3dd68c">
+    <animate attributeName="opacity" values="1;0.3;1" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+</svg>
