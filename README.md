@@ -139,14 +139,17 @@ Open to agent, RAG, and backend automation work · Tehran · Hybrid / Remote
 ### connect
 
 <p align="center">
-  <a href="https://erfanshm.com"><img src="https://img.shields.io/badge/Portfolio-erfanshm.com-0b1220?style=flat-square&logo=vercel&logoColor=00d9ff&labelColor=0b1220&color=0b1220" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/erfan-shafiee-moghadam-"><img src="https://img.shields.io/badge/LinkedIn-0b1220?style=flat-square&logo=linkedin&logoColor=00d9ff&labelColor=0b1220&color=0b1220" alt="LinkedIn" /></a>
-  <a href="https://huggingface.co/ErfanShm"><img src="https://img.shields.io/badge/HuggingFace-0b1220?style=flat-square&logo=huggingface&logoColor=00d9ff&labelColor=0b1220&color=0b1220" alt="HF" /></a>
-  <a href="https://www.kaggle.com/erfanshafieeaa"><img src="https://img.shields.io/badge/Kaggle-0b1220?style=flat-square&logo=kaggle&logoColor=00d9ff&labelColor=0b1220&color=0b1220" alt="Kaggle" /></a>
-  <a href="https://medium.com/@erfanshm12"><img src="https://img.shields.io/badge/Medium-0b1220?style=flat-square&logo=medium&logoColor=00d9ff&labelColor=0b1220&color=0b1220" alt="Medium" /></a>
-  <a href="mailto:erfanshm12@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-0b1220?style=flat-square&logo=gmail&logoColor=070b12&labelColor=0b1220&color=00d9ff" alt="Email" /></a>
+  <a href="https://erfanshm.com"><img src="https://img.shields.io/badge/Website-erfanshm.com-0b1220?style=for-the-badge&logo=googlechrome&logoColor=00d9ff&labelColor=0b1220&color=1a2740" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/erfan-shafiee-moghadam-"><img src="https://img.shields.io/badge/LinkedIn-Erfan-0b1220?style=for-the-badge&logo=linkedin&logoColor=00d9ff&labelColor=0b1220&color=1a2740" alt="LinkedIn" /></a>
+  <a href="https://github.com/ErfanShm"><img src="https://img.shields.io/badge/GitHub-ErfanShm-0b1220?style=for-the-badge&logo=github&logoColor=00d9ff&labelColor=0b1220&color=1a2740" alt="GitHub" /></a>
+</p>
+<p align="center">
+  <a href="https://huggingface.co/ErfanShm"><img src="https://img.shields.io/badge/Hugging_Face-ErfanShm-0b1220?style=for-the-badge&logo=huggingface&logoColor=00d9ff&labelColor=0b1220&color=1a2740" alt="Hugging Face" /></a>
+  <a href="https://www.kaggle.com/erfanshafieeaa"><img src="https://img.shields.io/badge/Kaggle-Profile-0b1220?style=for-the-badge&logo=kaggle&logoColor=00d9ff&labelColor=0b1220&color=1a2740" alt="Kaggle" /></a>
+  <a href="https://medium.com/@erfanshm12"><img src="https://img.shields.io/badge/Medium-Articles-0b1220?style=for-the-badge&logo=medium&logoColor=00d9ff&labelColor=0b1220&color=1a2740" alt="Medium" /></a>
+  <a href="mailto:erfanshm12@gmail.com"><img src="https://img.shields.io/badge/Email-erfanshm12%40gmail.com-0b1220?style=for-the-badge&logo=gmail&logoColor=00d9ff&labelColor=0b1220&color=1a2740" alt="Email" /></a>
 </p>
 
 <p align="center">
-  <sub>© 2026 · <a href="https://erfanshm.com">erfanshm.com</a> · where AI meets product · accent <code>#00d9ff</code></sub>
+  <sub>© 2026 · <a href="https://erfanshm.com">erfanshm.com</a> · where AI meets product</sub>
 </p>
